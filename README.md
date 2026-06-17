@@ -1,10 +1,10 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Yash Murani] 👋
 
 ### 🚀 About Me
-I am a passionate **[Your Role, e.g., Full-Stack Developer / Data Scientist / Student]** from **[Your Location]**. I love building things that solve real-world problems and constantly learning new technologies.
+I am a passionate Studentfrom surat. I love building things that solve real-world problems and constantly learning new technologies.
 
-- 🔭 I’m currently working on **[Project Name/Type]**
-- 🌱 I’m currently learning **[Tech Stack or Concept]**
+- 🔭 I’m currently working on Web Devlopment.
+- 🌱 I’m currently learning BCA.
 - 👯 I’m looking to collaborate on **[Open Source / Type of Projects]**
 - 💬 Ask me about **[Topics you know well]**
 - ⚡ Fun fact: **[A fun personal fact]**
@@ -24,7 +24,7 @@ I am a passionate **[Your Role, e.g., Full-Stack Developer / Data Scientist / St
 
 ### 📈 GitHub Stats
 
-Tailor your stats by replacing `your-username` in the links below:
+Tailor your stats by replacing `Yashmurani193` in the links below:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radial)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radial)
